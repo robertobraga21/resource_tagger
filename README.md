@@ -1,4 +1,4 @@
-# **Documentação Técnica – Gerenciador de Tags AWS v9.2**
+# **Documentação Técnica – Gerenciador de Tags AWS v1.0**
 
 ## **1\. Visão Geral**
 
