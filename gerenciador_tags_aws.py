@@ -105,7 +105,7 @@ SERVICE_FILTERS = {
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Gerenciador de Tags AWS v10.0 (Multi-Profile)")
+        self.title("Gerenciador de Tags AWS v1.1 (Multi-Profile)")
         self.geometry("900x750")
         self.output_queue = queue.Queue()
         self.last_listed_arns = []
