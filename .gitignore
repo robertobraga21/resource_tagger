@@ -1,4 +1,10 @@
-# ignora os arquivos com extensões 
-.gitignore
-# ignora quaisquer diretórios abaixo
+# Ignora a pasta virtual do Python
 myenv/
+
+# Ignora arquivos de configuração do ambiente
+.env
+*.env
+
+# Ignora arquivos temporários
+*.tmp
+*.log
